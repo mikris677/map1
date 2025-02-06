@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4a2f2f;
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.sadaļa {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #5c3d3d;
+    border-radius: 10px;
+}
+
+.sadaļa h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.sadaļa .saturs {
+    text-align: center;
+}
+
+.sadaļa img {
+    max-width: 100%;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.sadaļa p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 1.6;
+}
